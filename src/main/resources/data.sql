@@ -1,0 +1,10 @@
+INSERT into address(street, postal_code,city) VALUES ('ABC Vägen','11111','Luleå');
+INSERT into address(street, postal_code,city) VALUES ('DEF Vägen','22222','Piteå');
+INSERT into address(street, postal_code,city) VALUES ('GHI Vägen','33333','Skellefteå');
+INSERT into address(street, postal_code,city) VALUES ('JKL Vägen','44444','Umeå');
+INSERT into address(street, postal_code,city) VALUES ('MNO Vägen','55555','EÅ');
+INSERT into member(first_name, last_name,email,phone_number,date_of_birth,address_id) VALUES ('Fabian','Knopf','Fabian@gmail.com','0950123456',1991,1);
+INSERT into member(first_name, last_name,email,phone_number,date_of_birth,address_id) VALUES ('Niklas','Erik','Niklas@gmail.com','0771-717171',1992,2);
+INSERT into member(first_name, last_name,email,phone_number,date_of_birth,address_id) VALUES ('Johan','Anders','Johan@gmail.com','090-12314561',1993,3);
+INSERT into member(first_name, last_name,email,phone_number,date_of_birth,address_id) VALUES ('Core','Carlsson','Core@gmail.com','0932-1255616',1994,4);
+INSERT into member(first_name, last_name,email,phone_number,date_of_birth,address_id) VALUES ('Göran','Eldolagor','Göran@gmail.com','0943-41254',1995,5);
